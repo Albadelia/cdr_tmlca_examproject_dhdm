@@ -6,7 +6,7 @@ Progetto d'esame per il corso d'insegnamento in Digital Humanities and Data Mang
 
 ## Descrizione
 
-Il progetto d'esame consiste nell'applicazione della marcatura in TEI  per identificare e annotare le entità, la struttura e i metadati contestuali all'interno dei testi *Le Chiese di Roma* di Diego Angeli e *Le Chiese di Roma* di Diego Angeli.
+Il progetto d'esame consiste nell'applicazione della marcatura in TEI  per identificare e annotare le entità, la struttura e i metadati contestuali all'interno di due testi relativi alle chiese della città di Roma.
 
 ## Fonti
 * A.D. Tani, *Le Chiese di Roma*, Torino, Edizioni d'Arte E. Celanza, 1903.

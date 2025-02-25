@@ -10,4 +10,5 @@ I dati dei testi si presentano in formato `.txt` e `.csc`.
 
 ## Fonti
 * A.D. Tani, *Le Chiese di Roma*, Torino, Edizioni d'Arte E. Celanza, 1903.
-* Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1912.
+* Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1912;
+* [Github]https://github.com/dhdmch/2024-2025

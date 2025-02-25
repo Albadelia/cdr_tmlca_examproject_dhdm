@@ -11,7 +11,7 @@ Progetto d'esame incentrato sulla gestione dei dati. Nello specifico:
 * comparazione quantitativa tramite Voyant Tools.
 
 ## Fonti
-* A.D. Tani, *Le Chiese di Roma*, Torino, Edizioni d'Arte E. Celanza, 1903.
+* A.D. Tani, *Le Chiese di Roma*, Torino, Edizioni d'Arte E. Celanza, 1903;
 * Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1912.
 
 ## Metodi e strumenti

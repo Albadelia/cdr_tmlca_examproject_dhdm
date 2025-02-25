@@ -13,7 +13,7 @@
 ### Introduzione
 L'esame per il corso d'insegnamento in [DHDMCH](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386) (a.a.2024/2025) prevede lo sviluppo di un **progetto** incentrato sulla **gestione e sull'analisi dei dati**, con successiva pubblicazione su [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw).
 
-L'analisi si basa su due testi riguardanti le chiese della città di Roma. L'elaborazione dei dati è stata condotta principalmente attraverso la marcatura in TEI, con un confronto quantitativo limitato eseguito mediante [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL).
+L'analisi si concentra su due testi riguardanti le chiese della città di Roma. L'elaborazione dei dati è stata condotta principalmente attraverso la marcatura in TEI, con un confronto quantitativo limitato eseguito mediante [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL).
 
 Scopo dell'attività è quello di **confrontare** i due testi, apparentemente simili, **per  valutarne le affinità e le differenze** al fine di **estrarre informazioni utili per la loro fruizione e contestualizzazione d'uso**.
 

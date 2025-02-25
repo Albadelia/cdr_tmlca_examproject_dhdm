@@ -36,5 +36,23 @@ Si è dunque proceduto all'operazione di marcatura in TEI (tramite **https://vsc
 L'obiettivo dei dati prodotti è stato quello di **identificare e annotare** le entità, la struttura testuale e i metadati contestuali, integrando un **confronto quantitativo** tra i due testi a supporto di un’**analisi qualitativa**.
 I dati prodotti possono rappresentare uno **strumento utile per studi e ricerche basati su un’analisi comparativa**, finalizzata all'**individuazione di somiglianze e differenze** tra i testi, insieme all'estrazione di metadati rilevanti per la loro fruizione e contestualizzazione semantica.
 
-# Documentazione e qualità dei dati
-I dati
+## Documentazione e qualità dei dati
+Dati archiviati e resi accessibili su:
+* [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw), tramite la licenza [CC-BY 4.0 - Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/);
+* [Zenodo](https://zenodo.org), associazione del DOI al momento della pubblicazione.
+
+Il dataset pubblicato in Github è composto da 2 cartelle:
+* `data`, contenente 2 sotto cartelle:
+  *`tei`, contenente i due file presi ad esempio per la marcatura in TEI, in formato `.xml`;
+  *`.txt`, contenente la scansione digitale delle due fonti delle [Guide di Roma](https://liveunibo-my.sharepoint.com/:f:/g/personal/sebastian_barzaghi2_unibo_it/EhinmY5b4h1Eoo-t2JOpaHwBHmr2BcGZK7YhwV9KUvTK2g?e=qizgrM), in formato `.txt`;
+* `docs`, contenente il  `data-management-plan.md` e 2 sotto cartelle:
+  *`tei`, con il progetto d'esame (marcato in TEI) in formato `.xml`;
+  *`csv`,con la tabella dei dati comparativi e quantitativi in formato `.csv`.
+
+## Requisiti legali ed etici
+Dataset pubblicato su [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw), tramite la licenza [CC-BY 4.0 - Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), e [Zenodo](https://zenodo.org), con la conseguente associazione del DOI.
+
+## Condivisione dei dati e conservazione a lungo termine
+Dataset disponibile con **livello di accesso aperto**
+  
+   

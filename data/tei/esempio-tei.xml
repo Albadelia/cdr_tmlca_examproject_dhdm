@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Chiese di Roma</title>
+        <author>A.D. Tani</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Edizioni d'Arte E. Celanza</publisher>
+        <date>1912</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Testo tratto da documenti storici non strutturati, rielaborato in formato XML secondo le linee guida TEI.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <p>
+        <head>S. ANDREA IN VINCHI</head>
+        E detto anche S. Andrea in Mentuccia, perché eretto forse presso le rovine del tempio di Giunone Matuta e si trova in fondo a via Tor de’ Specchi, a sinistra di chi viene dal Campidoglio. È di origine antica, ma la forma attuale la deve all’architetto <persName>Carlo de Mochis</persName>, che la riedificò quando nel <date when="XVI" type="construction">XVI secolo</date> gli scalpellini ottennero la chiesa per la loro congregazione.
+      </p>
+      <p>Il nome di Vinchi le viene dal latino vinculis, perché nei dintorni si facevano le funi come si vede ancora dalla denominazione dei funari data alla prossima chiesa di S. Caterina.</p>
+      <p>Sulla facciata si scorgono ancora le tracce di una antica immagine della Madonna dipinta a fresco da un ignoto quattrocentista. Nell’interno, la volta fu dipinta da <persName>Antonio Nasi</persName> e le tre piccole storie sopra l’altare maggiore da un anonimo del <date when="XVI" type="creation">XVI secolo</date>. Nella sacristia: busto marmoreo di <persName>Giuseppe Leonardi</persName>, scalpellino (<date when="1866" type="creation">1866</date>).</p>
+
+      <p>
+        <head>S. ANGELO IN BORGO</head>
+        In fondo a Borgo S. Angelo, vicino al Castello. Non è ben certa l’origine di questa chiesa, che sotto <persName>Alessandro VII</persName> (<date when="1655" type="construction">1655</date>) si chiamava in Corridore dal vicino bastione di Castel S. Angelo. Esisteva già ai tempi di <persName>Eugenio IV</persName> (<date when="1435" type="construction">1435</date>) annessa a un ospedale che fu poi trasportato altrove. Fu riedificata dalle fondamenta sotto <persName>Pio IV</persName> (<date when="1559" type="renovation">1559</date>).
+      </p>
+      <p>Interno. — A destra: due lunette, con fatti che si riferiscono alla storia della confraternita a quale si raduna in quel luogo, dipinte a fresco, verso il <date when="1860" type="creation">1860</date> dal pittore <persName>Pacelli</persName>, romano. L’arena di <persName>S. Michele</persName> che abbatte Lucifero, gruppo in bronzo di <persName>Maurizio Lefevre</persName>, francese.</p>
+      <p>Altare Maggiore: <title>S. Michele</title>, quadro a olio di <persName>Giovanni Vecchi</persName>. A sinistra: cappella decorata da un affresco di <persName>G. B. Montano</persName>: <title>L’Apparizione dell’Arcangelo a S. Gregorio</title>. Sull’altare: quadro di un anonimo del <date when="XIX" type="creation">XIX secolo</date>, rappresentante San Giuseppe.</p>
+
+      <p>
+        <head>S. ANGELO CUSTODE</head>
+        Fu edificata con architettura di <persName>Felice della Greca</persName>, verso la metà del <date when="XVII" type="construction">XVII secolo</date>. Ma la facciata è di <persName>Mattia de Rossi</persName>.
+      </p>
+      <p>Interno. — Di forma circolare, con tre altari: quello di destra ha un quadro della scuola di <persName>Giovanni Carlo Maratta</persName>; l’altare maggiore – disegnato dal <persName>Rainaldi</persName> nel <date when="1681" type="construction">1681</date> – ha una tela a olio di <persName>Giacinto Brandi</persName>, e quello di sinistra ha un quadro di <persName>Luca Giordano</persName>. Accanto alla porta: sepolcro di <persName>Francesco Solari</persName> (<date when="1674" type="creation">1674</date>).</p>
+
+      <p>
+        <head>S. ANGELO IN PESCHERIA</head>
+        Fu edificata nel <date when="480" type="construction">480</date> da <persName>Bonifacio II</persName> all’estremità delle rovine del <placeName>circo Flaminio</placeName>: ma il primo documento certo che si ha di questa chiesa risale al pontificato di <persName>Stefano III</persName>, in un catalogo di reliquie compilato nel <date when="770" type="historical">770</date>. Nel <date when="780" type="renovation">780</date> <persName>Teodoro</persName>, zio di <persName>Adriano I</persName>, la restaurò per espiazione dei suoi peccati, come risulta da un’iscrizione che ancora si conserva nell’interno della chiesa.</p>
+      <p>Nel <date when="1291" type="historical">1291</date> <persName>Rodolfo Savelli</persName> donò la campana fusa dal <persName>De Dottis</persName>, che è anche oggi in uso. Nel <date when="1347" type="historical">1347</date> <persName>Cola di Rienzi</persName> proclamò la Repubblica. Dopo aver sentito la notte della Pentecoste diverse messe dello Spirito Santo, n’usciva, verso il mattino, tutto armato e seguito dai congiurati che lo accompagnarono in <placeName>Campidoglio</placeName>.</p>
+      <p>Nel <date when="1610" type="renovation">1610</date> fu rinnovata dal cardinale <persName>Andrea Peretti</persName>, e nel <date when="1700" type="renovation">1700</date> il cardinale <persName>Barberini</persName> la ridusse finalmente allo stato attuale. Era in questa chiesa che, fin dal <date when="1584" type="historical">1584</date>, per ordine di <persName>Gregorio XIII</persName> gli Ebrei dovevano assistere ogni sabato ad un sermone cristiano.</p>
+      <p>Interno: A destra: quadro a olio, sull’altare, rappresentante <title>S. Lorenzo</title> di <persName>Giovanni Battista Brugel</persName>. Sepolcro del canonico <persName>Giacomo Ricchebachi</persName> (<date when="1841" type="creation">1841</date>). Cappella di S. Andrea: quadro a olio di <persName>Innocenzo Tacconi</persName>. Altare maggiore: <title>S. Michele Arcangelo</title> della scuola del <persName>Cavalier d’Arpino</persName>.</p>
+      <p>Oratorio. — A destra: 1. Altare: quadro a olio di scuola fiamminga del <date when="XVII" type="creation">XVII secolo</date>. 2.3.4. Tre quadri di <persName>Lazzaro Baldi</persName>. Altare maggiore: quadro di <persName>Giuseppe Ghezzi</persName>. A sinistra: 1. Altare: anonimo fiammingo del <date when="XVI" type="creation">XVI secolo</date>. 2.3. Quadri di <persName>Lazzaro Baldi</persName>. 4. Quadro a olio di scuola francese del <date when="XVI" type="creation">XVI secolo</date>.</p>
+    </body>
+  </text>
+</TEI>

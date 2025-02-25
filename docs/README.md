@@ -35,7 +35,7 @@ La documentazione e trascrizione dei dati è stata effettuata tramite un file di
 
 Il testo dei dati selezionati, precedentemente scaricato in locale in formato `.txt`, è stato copiato, caricato sullo spazio di editing e successivamente marcato in TEI tramite lo strumento **https://vscode.dev/**. 
 
-L'operazione di marcatura si è focalizzata su entità quali:
+L'operazione di marcatura si è focalizzata su:
 * *persone/ animali/ organizzazioni/ entità* (nomi comuni e nomi propri, per questi ultimi l'identificatore univoco da [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) se disponibile);
 * *luoghi* (nomi comuni e nomi propri);
 * *eventi*;

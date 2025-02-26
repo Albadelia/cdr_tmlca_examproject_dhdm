@@ -11,7 +11,7 @@
 * Conclusioni
 
 ### Introduzione
-L'esame per il corso d'insegnamento in [DHDMCH](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386) (a.a.2024/2025) ha previsto lo sviluppo di un **progetto** incentrato sulla **gestione e sull'analisi dei dati**, con la successiva pubblicazione su [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw).
+CDR-TMLCA (*Chiese di Roma- Tei Markup Language and Comparative Analysis*) è stato realizzato per l'esame del corso d'insegnamento in [DHDMCH](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386) (a.a.2024/2025), che richiedeva lo sviluppo di un **progetto** incentrato sulla **gestione e sull'analisi dei dati**, con la successiva pubblicazione su [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw).
 
 L'analisi si è concentrata su due fonti testuali riguardanti le chiese della città di Roma. L'elaborazione dei dati è stata condotta principalmente attraverso la marcatura in TEI, con un confronto quantitativo limitato eseguito mediante [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL).
 

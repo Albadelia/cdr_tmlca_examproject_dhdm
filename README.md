@@ -12,7 +12,7 @@ Progetto d'esame incentrato sulla **gestione dei dati**. Nello specifico:
 
 ## Fonti
 * A.D. Tani, *Le Chiese di Roma*, Torino, Edizioni d'Arte E. Celanza, 1903;
-* Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1912.
+* Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1922.
 
 ## Metodi e strumenti
 * [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw)

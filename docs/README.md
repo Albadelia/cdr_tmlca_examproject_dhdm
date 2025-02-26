@@ -55,6 +55,7 @@ L'operazione di analisi testuale, supportata da [**Voyant Tools**](https://www.g
 * la *densità del vocabolario*;
 * *numero medio delle parole per frase*;
 * *parole e conteggio* (questi elementi analizzati singolarmente sia nella fonte testuale di A.D. Tani che in quella di Diego Angeli).
+
 La trascrizione, organizzazione e analisi dei dati quantitativi ottenuti è stata effettuata tramite un file di foglio di calcolo su [Excel]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://excel.cloud.microsoft/&ved=2ahUKEwjO2Z7lnuKLAxXoxQIHHRBSFhUQFnoECEAQAQ&usg=AOvVaw2NQ8dsv7MAJGY3iBRPWgdQ)).
 
 ## Preservazione e condivisione

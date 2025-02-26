@@ -11,5 +11,5 @@ Dataset contenente i dati utilizzati per la realizzazione di CDR-TMLCA, progetto
 
 ## Fonti
 * A.D. Tani, *Le Chiese di Roma*, Torino, Edizioni d'Arte E. Celanza, 1903.
-* Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1912;
+* Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1922;
 * [Github](https://github.com/dhdmch/2024-2025).

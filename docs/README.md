@@ -20,7 +20,7 @@ Lo scopo dell'attività è stato quello di **confrontare** i due testi, apparent
 ## Pianificazione
 I due testi presi in considerazione: 
 * A.D. Tani, *Le Chiese di Roma*, Torino, Edizioni d'Arte E. Celanza, 1903.
-* Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1912.
+* Diego Angeli, *Le Chiese di Roma*, Roma, Società Editrice Dante Alighieri, 1922.
 
 Di questi, sono state selezionate le descrizioni relative alle chiese di **Santa Anastasia**, **Santa Balbina** e **Sant’Eusebio**.
 

@@ -20,7 +20,7 @@ Progetto d'esame incentrato sulla **gestione dei dati**. Nello specifico:
 * TEI
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 * [Voyant Tools](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL)
-* [Google Sheets](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O)
+* [Excel]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://excel.cloud.microsoft/&ved=2ahUKEwjO2Z7lnuKLAxXoxQIHHRBSFhUQFnoECEAQAQ&usg=AOvVaw2NQ8dsv7MAJGY3iBRPWgdQ))
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 ### Credits

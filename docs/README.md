@@ -32,7 +32,7 @@ I dati presi in esame sono relativi alla descrizione delle chiese della città d
 I dati scelti, riguardanti le **chiese di Santa Anastasia, Santa Balbina e Sant'Eusebio**, sono stati **salvati in locale** in formato `.xml` e `.csv` solo dopo le operazioni di:
 * marcatura in TEI (su **https://vscode.dev/**);
 * analisi tramite [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL);
-* trascrizione e organizzazione dei dati analizzati da Voyant Tools su [Google Sheets](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O).
+* trascrizione e organizzazione dei dati analizzati da Voyant Tools su [Excel]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://excel.cloud.microsoft/&ved=2ahUKEwjO2Z7lnuKLAxXoxQIHHRBSFhUQFnoECEAQAQ&usg=AOvVaw2NQ8dsv7MAJGY3iBRPWgdQ)).
 
 La procedura di **creazione e strutturazione delle cartelle** si è basata sulla suddivisione in base alla tipologia di formato e tipologia di operazione sui dati.
 
@@ -50,7 +50,12 @@ L'operazione di marcatura si è focalizzata su:
 * *numeri* (tipologia di valore numerico, valore numerico in formato standard, unità di misura);
 * *lingua* (del contenuto dell'elemento marcato).
 
-L'operazione di analisi testuale, supportata da [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL), si è concentrata invece sulle informazioni quantitative relative alla *quantità delle parole usate*, la *tipologia*, la *frequenza* e la *distribuzione nel testo*. La trascrizione, organizzazione e analisi dei dati quantitativi ottenuti è stata effettuata tramite un file di foglio di calcolo su [Google Sheets](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O).
+L'operazione di analisi testuale, supportata da [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL), si è concentrata invece sulle informazioni quantitative relative al:
+* *numero delle parole usate*;
+* la *densità del vocabolario*;
+* *numero medio delle parole per frase*;
+* *parole e conteggio* (questi elementi analizzati singolarmente sia nella fonte testuale di A.D. Tani che in quella di Diego Angeli).
+La trascrizione, organizzazione e analisi dei dati quantitativi ottenuti è stata effettuata tramite un file di foglio di calcolo su [Excel]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://excel.cloud.microsoft/&ved=2ahUKEwjO2Z7lnuKLAxXoxQIHHRBSFhUQFnoECEAQAQ&usg=AOvVaw2NQ8dsv7MAJGY3iBRPWgdQ)).
 
 ## Preservazione e condivisione
 Nel rispetto e osservanza dei principi [**FAIR**](https://doi.org/10.1038/sdata.2016.18) (reversibilità, accessibilità, interoperabilità e riutilizzabilità), i dati sono stati archiviati:

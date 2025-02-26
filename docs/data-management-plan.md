@@ -31,7 +31,14 @@ Si è dunque proceduto all'operazione di marcatura in TEI dei dati (tramite **ht
   * *numeri* (tipologia di valore numerico, valore numerico in formato standard, unità di misura);
   * *lingua* (del contenuto dell'elemento marcato).
 
-* L'operazione di **analisi testuale** con Voyant Tools si è focalizzata su **informazioni quantitative** relative alla **quantità delle parole usate, la frequenza e la tipologia**.
+* L'operazione di analisi testuale, supportata da [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL), si è concentrata invece sulle informazioni quantitative relative al:
+* *numero delle parole usate*;
+* la *densità del vocabolario*;
+* *numero medio delle parole per frase*;
+* *parole e conteggio* (questi elementi analizzati singolarmente sia nella fonte testuale di A.D. Tani che in quella di Diego Angeli).
+
+La trascrizione, organizzazione e analisi dei dati quantitativi ottenuti è stata effettuata tramite un file di foglio di calcolo su [Excel]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://excel.cloud.microsoft/&ved=2ahUKEwjO2Z7lnuKLAxXoxQIHHRBSFhUQFnoECEAQAQ&usg=AOvVaw2NQ8dsv7MAJGY3iBRPWgdQ))
+.
 
 L'obiettivo dei dati prodotti è stato quello di **identificare e annotare** le entità, la struttura testuale e i metadati contestuali, integrando un **confronto quantitativo** tra i due testi a supporto di un’**analisi qualitativa**.
 I dati prodotti possono rappresentare uno **strumento utile per studi e ricerche basati su un’analisi comparativa**, finalizzata all'**individuazione di somiglianze e differenze** tra i testi, insieme all'**estrazione di metadati rilevanti per la loro fruizione e contestualizzazione semantica**.

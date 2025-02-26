@@ -1,14 +1,14 @@
-# Esame di DHDMCH 2024/2025
+# CDR-TMLCA, esame di DHDMCH 2024/2025
 
-Progetto d'esame per il corso d'insegnamento in [DHDMCH](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386) (a.a.2024/2025), presso il Dipartimento di Beni Culturali dell'Univeristà di Bologna, sede di Ravenna (RA), Italia.
+**CDR-TMLA** (*Chiese di Roma- Tei Markup Language and Comparative Analysis*) è il progetto d'esame per il corso d'insegnamento in [DHDMCH](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386) (a.a.2024/2025), presso il Dipartimento di Beni Culturali dell'Univeristà di Bologna, sede di Ravenna (RA), Italia.
 
 ## Italiano
 
 ## Descrizione
 
-Progetto d'esame incentrato sulla gestione dei dati. Nello specifico:
-* applicazione della marcatura in TEI per l'identificazione e l'annotazione delle entità, della struttura e dei metadati contestuali;
-* comparazione quantitativa tramite Voyant Tools.
+Progetto d'esame incentrato sulla **gestione dei dati**. Nello specifico:
+* applicazione della **marcatura in TEI** per l'identificazione e l'annotazione delle entità, della struttura e dei metadati contestuali;
+* **comparazione quantitativa** tramite Voyant Tools.
 
 ## Fonti
 * A.D. Tani, *Le Chiese di Roma*, Torino, Edizioni d'Arte E. Celanza, 1903;

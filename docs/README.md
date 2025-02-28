@@ -61,7 +61,7 @@ La trascrizione, organizzazione e analisi dei dati quantitativi ottenuti è stat
 ## Preservazione e condivisione
 Nel rispetto e osservanza dei principi [**FAIR**](https://doi.org/10.1038/sdata.2016.18) (reversibilità, accessibilità, interoperabilità e riutilizzabilità), i dati sono stati archiviati:
 * su [Github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw), con la licenza [CC-BY 4.0 - Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/);
-* su [Zotero](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zotero.org/&ved=2ahUKEwiOkN-h2d-LAxUV-AIHHZHsGxoQFnoECAkQAQ&usg=AOvVaw3WB2zTrYFysjM4IeX43tLS), con il DOI (10.5281/zenodo.14933952) .
+* su [Zotero](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zotero.org/&ved=2ahUKEwiOkN-h2d-LAxUV-AIHHZHsGxoQFnoECAkQAQ&usg=AOvVaw3WB2zTrYFysjM4IeX43tLS), con il [DOI](10.5281/zenodo.14933952) .
 
 ## Conclusioni
 I risultati che emergono in seguito alla marcatura in TEI e dal confronto quantitativo di Voyant Tools dei dati selezionati, evidenziano come i due testi forniscano delle **differenti prospettive** di analisi sulle chiese romane. Se **Diego Angeli** si distingue per un **approccio narrativo e descrittivo**, **A.D. Tani** offre invece un’**esposizione più dettagliata**, con **maggiore attenzione agli aspetti architettonici**.

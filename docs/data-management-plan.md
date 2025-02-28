@@ -58,4 +58,4 @@ Il dataset pubblicato su Github e Zotero in è composto da 2 cartelle:
   *`csv`,con la tabella dei dati comparativi e quantitativi in formato `.csv`.
 
 ## Requisiti legali ed etici
-Dataset pubblicato su [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw), tramite la licenza [CC-BY 4.0 - Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), e su [Zenodo](https://zenodo.org), con la conseguente associazione del DOI al momento della pubblicazione su [Zenodo](10.5281/zenodo.14933952).
+Dataset pubblicato su [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw), tramite la licenza [CC-BY 4.0 - Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), e su [Zenodo](https://zenodo.org), con la conseguente associazione del [DOI](10.5281/zenodo.14933952).

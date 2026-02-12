@@ -40,7 +40,7 @@ La procedura di **creazione e strutturazione delle cartelle** si è basata sulla
 
 ## Elaborazione e analisi
 
-Il testo dei dati selezionati, precedentemente scaricato in locale in formato `.txt`, è stato caricato su **https://vscode.dev/** e marcato in TEI. 
+Il testo dei dati selezionati, precedentemente scaricato in locale in formato `.txt`, è stato caricato su [**vscode.dev**](https://vscode.dev/?vscode-lang=it-it) e marcato in TEI. 
 
 L'operazione di marcatura si è focalizzata su:
 * *persone/ animali/ organizzazioni/ entità* (nomi comuni e nomi propri, per questi ultimi l'identificatore univoco da [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) se disponibile);

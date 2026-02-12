@@ -30,7 +30,7 @@ L'obiettivo del progetto è stato l’**identificazione e l’annotazione** dell
 I dati presi in esame sono relativi alla descrizione delle chiese della città di Roma nei primi anni del '900. Sono stati raccolti da [**Guide di Roma**](https://liveunibo-my.sharepoint.com/:f:/g/personal/sebastian_barzaghi2_unibo_it/EhinmY5b4h1Eoo-t2JOpaHwBHmr2BcGZK7YhwV9KUvTK2g?e=qizgrM) su [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw) e successivamenti estrapolati in zip e **scaricati in locale** in formato `.txt` e `.pdf`.
 
 I dati scelti, riguardanti le **chiese di Santa Anastasia, Santa Balbina e Sant'Eusebio**, sono stati **salvati in locale** in formato `.xml` e `.csv` solo dopo le operazioni di:
-* marcatura in TEI (su [**vscode.dev**](https://vscode.dev/?vscode-lang=it-it));
+* marcatura in TEI (su [**VS CODE**](https://vscode.dev/?vscode-lang=it-it));
 * analisi tramite [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL);
 * trascrizione e organizzazione dei dati analizzati da Voyant Tools su [Excel]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://excel.cloud.microsoft/&ved=2ahUKEwjO2Z7lnuKLAxXoxQIHHRBSFhUQFnoECEAQAQ&usg=AOvVaw2NQ8dsv7MAJGY3iBRPWgdQ)).
 

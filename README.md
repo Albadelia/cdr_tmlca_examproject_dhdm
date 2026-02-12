@@ -24,7 +24,7 @@ Progetto d'esame incentrato sulla **gestione dei dati**. Nello specifico:
 
 ### Credits
 
-Alba d'Elia, https://orcid.org/my-orcid?orcid=0009-0009-3626-6779, Università di Bologna.
+Alba d'Elia, [ORCID](https://orcid.org/my-orcid?orcid=0009-0009-3626-6779), Università di Bologna.
 
 ### Licenza
 [CC-BY 4.0 - Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)

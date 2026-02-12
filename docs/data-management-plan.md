@@ -7,7 +7,7 @@
 ## Sommario esecutivo
 * Raccolta dei dati da [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw): [**Guide di Roma**](https://liveunibo-my.sharepoint.com/:f:/g/personal/sebastian_barzaghi2_unibo_it/EhinmY5b4h1Eoo-t2JOpaHwBHmr2BcGZK7YhwV9KUvTK2g?e=qizgrM);
 * Dati selezionati scaricati in locale in formato `.txt` e `.pdf`;
-* Dati marcati in TEI tramite [**vscode.dev**](https://vscode.dev/);
+* Dati marcati in TEI tramite [**VS CODE**](https://vscode.dev/);
 * Salvataggio di una copia del documento in locale in formato `.xml`;
 * Dati `.txt` caricati su [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL);
 * Dati estrapolati ed organizzati in tabella in formato `.csv` .
@@ -20,7 +20,7 @@ Dati provenienti dalla raccolta di [GitHub](https://www.google.com/url?sa=t&sour
 
 Di questi sono stati selezionati i dati relativi alle descrizioni delle chiese di **Santa Anastasia**, **Santa Balbina** e **Sant’Eusebio**.
 
-Si è dunque proceduto all'operazione di marcatura in TEI dei dati (tramite [**vscode.dev**](https://vscode.dev) e al loro confronto quantitativo con [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL). Produzione finale di dati in formato `.xml` e `.csv`.
+Si è dunque proceduto all'operazione di marcatura in TEI dei dati (tramite [**VS CODE**](https://vscode.dev) e al loro confronto quantitativo con [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL). Produzione finale di dati in formato `.xml` e `.csv`.
 > I dati prodotti da Voyant Tools sono stati selezionati, raccolti, trascritti, organizzati e analizzati in tabella tramite l'utilizzo dei foglio di calcolo di [Excel]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.google.com/spreadsheets/create%3Fhl%3Dit&ved=2ahUKEwifr4nRot6LAxXFWkEAHSEiFC4QFnoECAgQAQ&usg=AOvVaw15jA_GQBObUKkityhEJa1O](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://excel.cloud.microsoft/&ved=2ahUKEwjO2Z7lnuKLAxXoxQIHHRBSFhUQFnoECEAQAQ&usg=AOvVaw2NQ8dsv7MAJGY3iBRPWgdQ))
 , e quindi salvati locale in formato `.csv`.
 

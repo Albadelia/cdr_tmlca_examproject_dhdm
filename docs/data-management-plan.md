@@ -7,7 +7,7 @@
 ## Sommario esecutivo
 * Raccolta dei dati da [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw): [**Guide di Roma**](https://liveunibo-my.sharepoint.com/:f:/g/personal/sebastian_barzaghi2_unibo_it/EhinmY5b4h1Eoo-t2JOpaHwBHmr2BcGZK7YhwV9KUvTK2g?e=qizgrM);
 * Dati selezionati scaricati in locale in formato `.txt` e `.pdf`;
-* Dati marcati in TEI tramite **https://vscode.dev/**;
+* Dati marcati in TEI tramite [**vscode.dev**](https://vscode.dev/);
 * Salvataggio di una copia del documento in locale in formato `.xml`;
 * Dati `.txt` caricati su [**Voyant Tools**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://voyant-tools.org/&ved=2ahUKEwiuuJ_AmN6LAxVSRUEAHcN0KUoQFnoECAkQAQ&usg=AOvVaw0HuDnxSRVwxziirQgSd0xL);
 * Dati estrapolati ed organizzati in tabella in formato `.csv` .

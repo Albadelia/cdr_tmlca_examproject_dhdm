@@ -2,7 +2,7 @@
 
 ## Autrice
 
-* Alba d'Elia, https://orcid.org/my-orcid?orcid=0009-0009-3626-6779, Università di Bologna.
+* Alba d'Elia, [ORCID](https://orcid.org/my-orcid?orcid=0009-0009-3626-6779), Università di Bologna.
 
 ## Sommario esecutivo
 * Raccolta dei dati da [GitHub](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwinicGop96LAxXj0gIHHecADyoQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw): [**Guide di Roma**](https://liveunibo-my.sharepoint.com/:f:/g/personal/sebastian_barzaghi2_unibo_it/EhinmY5b4h1Eoo-t2JOpaHwBHmr2BcGZK7YhwV9KUvTK2g?e=qizgrM);
